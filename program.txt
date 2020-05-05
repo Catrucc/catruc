@@ -1,0 +1,24 @@
+<html>
+<head>
+
+<title>Moldova</title>
+</head>
+<body>
+Bine ai venit 
+<h2 align=center>Muzica Populara</h2>
+<h3 align=center><p>Din cele mai vechi timpuri muzica însotea activitatile poporului ?i era strîns legata de obiceiuri, era prezenta la cele mai importante ceremonii, precum nunta si cumatria, petrecerea în armata. De asemenea, erau larg raspîndite si alte forme ale muzicii populare: bocetul, cîntecul de dragoste, romanta.</p>
+
+<p>Tarafurile erau formatiile care acompaniau, de regula, interpretarea muzicii populare. Repertoriul  unor asemenea orchestre includea, de obicei, cîntece si dansuri populare, fantezii instrumentale, piese cu caracter ceremonial. Instrumentele tipice pentru taraf erau vioara, cobza, tambalul, doba, violoncelul, fluierul.</p>
+
+<p>Specifice pentru muzica populara sînt diferite tipuri de instrumente. Instrumentele de suflat: buciumul, cavalul, naiul, taragotul, trisca, trombonul cu ventile, trompeta, cimpoiul, fluierul; instrumentele cu coarde: violoncelul, cobza, contrabasul, vioara, tambalul; de percutie - toba. În trecut erau raspîndite buhaiul, daireaua, drîmba, lauta, surla, trîmbita, tumbelechiul.</p>
+
+<p>Izvorul muzicii populare moldovenesti provine de la creatia muzicantilor ambulanti – a lautarilor. Orchestrele lautaresti cîntau la petreceri, nunti, acompaniau spectacolele. În timpul sovietic si post-sovietic creatia muzicala a lautarilor a fost continuata de numeroasele orchestre de muzica populara printre care se numara „Fluieras", „Folclor", „Martisor", „Mugurel" ?i „Lautarii".</p></h3>
+<h2 align=center><video width="1000" height="800" controls="controls">
+<source src="video.webm" type="video/webm">
+Your browser does not support the video tag.
+</video></h2>
+<body text="red"></body>
+<body background=" moldova1.jpg"></body>
+</body>
+</html>
+
